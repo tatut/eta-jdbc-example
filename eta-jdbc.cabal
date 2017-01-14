@@ -12,7 +12,7 @@ build-type:          Simple
 -- extra-source-files:
 cabal-version:       >=1.10
 
-executable etailu
+executable eta-jdbc
   main-is:             Main.hs
   other-modules:       Jdbc
   -- other-extensions:
